@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: back-con
-        image: oolralra/back:3
+        image: oolralra/back:4
 ---
 apiVersion: v1
 kind: Service
